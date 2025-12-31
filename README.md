@@ -91,7 +91,7 @@ plt.show()
 
 To find how skills trended in 2023 for data analysts, analyst positions were filtered out, and grouped skills by month of job posting. With this, the top 5 skills of data analysts by month, highlighting popular skills throughout that year.
 
-Detailed steps are here: [3_Skills_Trend]('/3_Project/3_Skills_Trend.ipynb')
+Detailed steps are here: [3_Skills_Trend](/3_Project/3_Skills_Trend.ipynb)
 
 ### Visualise Data
 
@@ -123,7 +123,7 @@ plt.show()
 
 ### Salary Analysis for Data Professionals
 
-Detailed steps are here: [4_Salary_Analysis]('/3_Project/4_Salary_Analysis.ipynb')
+Detailed steps are here: [4_Salary_Analysis](/3_Project/4_Salary_Analysis.ipynb)
 
 ### Visualise Data
 
@@ -148,7 +148,7 @@ plt.show()
 
 ### Salary Analysis per Skill
 
-Detailed steps are here: [4_Salary_Analysis]('/3_Project/4_Salary_Analysis.ipynb')
+Detailed steps are here: [4_Salary_Analysis](/3_Project/4_Salary_Analysis.ipynb)
 
 ### Visualise Data
 
@@ -179,7 +179,7 @@ plt.show()
 
 ### 4. Optimal skills for data analysts to acquire
 
-Detailed steps are here: [5_Optimal_Skills]('/3_Project/5_Optimal_Skills.ipynb')
+Detailed steps are here: [5_Optimal_Skills](/3_Project/5_Optimal_Skills.ipynb)
 
 ### Visualise Data
 
