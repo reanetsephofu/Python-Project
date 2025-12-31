@@ -62,7 +62,7 @@ Every Jupyter notebook pertaining to this project is aimed at investigating spec
 
 To find most demanded roles for the top 3 most popular jobs, first the required positions were filtered out based on which were most popular, then extracted the top 5 skills for said positions. Below query highlights most popular titles and their top skills, showing which skills should be paid attention, depending of role you are pursuing.
 
-Detailed steps are here: [2_Skills_Count]('Python-Project/3_Project/2_Skills_Count.ipynb')
+Detailed steps are here: [2_Skills_Count](3_Project/2_Skills_Count.ipynb)
 
 ### Visualise Data
 
